@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "M:\\.NET\\DotNet2025_0784_5297\\DalTest\\DalTest.csproj": {}
+    "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalTest\\DalTest.csproj": {}
   },
   "projects": {
-    "M:\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj": {
+    "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "M:\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj",
-        "packagesPath": "C:\\Users\\malkagadlowitz\\.nuget\\packages\\",
-        "outputPath": "M:\\.NET\\DotNet2025_0784_5297\\DalFacade\\obj\\",
+        "projectPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj",
+        "packagesPath": "C:\\Users\\מורה\\.nuget\\packages\\",
+        "outputPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\malkagadlowitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\מורה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +40,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,29 +56,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "M:\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj": {
+    "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj",
+        "projectUniqueName": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "M:\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj",
-        "packagesPath": "C:\\Users\\malkagadlowitz\\.nuget\\packages\\",
-        "outputPath": "M:\\.NET\\DotNet2025_0784_5297\\DalList\\obj\\",
+        "projectPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj",
+        "packagesPath": "C:\\Users\\מורה\\.nuget\\packages\\",
+        "outputPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\malkagadlowitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\מורה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "M:\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "M:\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj"
+              "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj"
               }
             }
           }
@@ -108,11 +100,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -129,29 +116,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "M:\\.NET\\DotNet2025_0784_5297\\DalTest\\DalTest.csproj": {
+    "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalTest\\DalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\.NET\\DotNet2025_0784_5297\\DalTest\\DalTest.csproj",
+        "projectUniqueName": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalTest\\DalTest.csproj",
         "projectName": "DalTest",
-        "projectPath": "M:\\.NET\\DotNet2025_0784_5297\\DalTest\\DalTest.csproj",
-        "packagesPath": "C:\\Users\\malkagadlowitz\\.nuget\\packages\\",
-        "outputPath": "M:\\.NET\\DotNet2025_0784_5297\\DalTest\\obj\\",
+        "projectPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalTest\\DalTest.csproj",
+        "packagesPath": "C:\\Users\\מורה\\.nuget\\packages\\",
+        "outputPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\malkagadlowitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\מורה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -167,11 +150,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "M:\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "M:\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj"
+              "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalFacade\\DalFacade.csproj"
               },
-              "M:\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj": {
-                "projectPath": "M:\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj"
+              "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj": {
+                "projectPath": "M:\\Seminar\\Handesaim\\14\\malkagadlowitz\\.NET\\DotNet2025_0784_5297\\DalList\\DalList.csproj"
               }
             }
           }
@@ -180,11 +163,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -201,12 +179,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
