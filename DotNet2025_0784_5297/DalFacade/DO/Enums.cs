@@ -1,3 +1,10 @@
 ﻿namespace DO;
 
-internal enum Categories {Necklace,Bracelet,Earring,Ring,Watch };
+public enum Categories
+{
+    Necklace,
+    Bracelet,
+    Earring,
+    Ring,
+    Watch
+}

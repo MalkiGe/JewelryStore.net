@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\DalFacade.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\DalFacade.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\DalFacade.sourcelink.json
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\bin\Debug\net8.0\DalFacade.deps.json
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\bin\Debug\net8.0\DalFacade.dll
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\bin\Debug\net8.0\DalFacade.pdb
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\DalFacade.dll
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\refint\DalFacade.dll
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\DalFacade.pdb
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalFacade\obj\Debug\net8.0\ref\DalFacade.dll

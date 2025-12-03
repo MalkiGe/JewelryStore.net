@@ -17,7 +17,7 @@ namespace DO
     /// <param name="IsSaleToAllCustomer"></param>
     /// <param name="StartSale"></param>
     /// <param name="EndSale"></param>
-    internal record Sale
+    public record Sale
         (
           int Id,
           int ProductId,
@@ -28,11 +28,11 @@ namespace DO
           DateTime? EndSale
 
         )
-        
+
     {
-        public Sale():this(0,0,null,0, true, null, null)
+        public Sale() : this(0, 0, null, 0, true, null, null)
         {
-            
+
         }
     }
 }

@@ -15,7 +15,7 @@ namespace DO
     /// <param name="Category"></param>
     /// <param name="Price"></param>
     /// <param name="CountStock"></param>
-    internal record Product
+    public record Product
         (
         int Id,
         string Name,
@@ -24,6 +24,9 @@ namespace DO
         int CountStock
         )
     {
+        /// <summary>
+        ///  בנאי לאתחול שדות...
+        /// </summary>
         public Product():this(0,"",Categories.Earring,0.0,0)
         {
             

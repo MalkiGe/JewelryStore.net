@@ -13,7 +13,7 @@ namespace DO
     /// <param name="Name"></param>
     /// <param name="Address"></param>
     /// <param name="Phone"></param>
-    internal record Customer
+    public record Customer
    (
         int Id,
         string Name,
@@ -21,6 +21,9 @@ namespace DO
         string Phone
         )
     {
+        /// <summary>
+        /// בנאי המאתחל ערכים
+        /// </summary>
         public Customer():this(0,"",null, "")
         {
             

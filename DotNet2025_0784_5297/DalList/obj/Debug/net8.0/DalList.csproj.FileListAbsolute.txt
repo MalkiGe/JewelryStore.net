@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.sourcelink.json
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\bin\Debug\net8.0\DalList.deps.json
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\bin\Debug\net8.0\DalList.dll
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\bin\Debug\net8.0\DalList.pdb
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\bin\Debug\net8.0\DalFacade.dll
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\bin\Debug\net8.0\DalFacade.pdb
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.csproj.Up2Date
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.dll
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\refint\DalList.dll
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\DalList.pdb
+C:\Users\User\Downloads\New folder\DotNet2025_0784_5297\DalList\obj\Debug\net8.0\ref\DalList.dll
