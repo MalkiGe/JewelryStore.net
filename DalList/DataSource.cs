@@ -15,17 +15,19 @@ namespace Dal
         {
             internal const int ProductId = 1000;
             private static int _productId = ProductId;
-            public static int ProductNext
+            public static int NextProduct
             {
                 get { return _productId++; }
             }
 
-            internal const int SaleId = 1000;
-            private static int _SaleId = SaleId;
-            public static int SaleNext
+            private const int InitialSaleId = 1000; // Starting ID
+            private static int _nextSaleId = InitialSaleId;
+
+            public static int NextSaleId
             {
-                get { return _SaleId++; }
+                get { return _nextSaleId++; } // Return current ID and increment
             }
+
         }
     }
 }

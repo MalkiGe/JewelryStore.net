@@ -20,7 +20,7 @@ namespace DO
     public record Sale
         (
           int Id,
-          int ProductId,
+          int? ProductId,
           int? QuantityForSale,
           double SalePrice,
           bool IsSaleToAllCustomer,
